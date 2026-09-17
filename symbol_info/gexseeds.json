@@ -1,0 +1,58 @@
+{
+ "symbol": [
+  "MES",
+  "TSLA",
+  "NVDA",
+  "AAPL",
+  "GOOG"
+ ],
+ "description": [
+  "vpgexdex GEX levels: MES",
+  "vpgexdex GEX levels: TSLA",
+  "vpgexdex GEX levels: NVDA",
+  "vpgexdex GEX levels: AAPL",
+  "vpgexdex GEX levels: GOOG"
+ ],
+ "pricescale": [
+  100,
+  100,
+  100,
+  100,
+  100
+ ],
+ "minmov": [
+  1,
+  1,
+  1,
+  1,
+  1
+ ],
+ "session": [
+  "0900-1600",
+  "0900-1600",
+  "0900-1600",
+  "0900-1600",
+  "0900-1600"
+ ],
+ "timezone": [
+  "America/New_York",
+  "America/New_York",
+  "America/New_York",
+  "America/New_York",
+  "America/New_York"
+ ],
+ "type": [
+  "index",
+  "index",
+  "index",
+  "index",
+  "index"
+ ],
+ "currency": [
+  "USD",
+  "USD",
+  "USD",
+  "USD",
+  "USD"
+ ]
+}
